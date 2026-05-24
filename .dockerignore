@@ -1,0 +1,45 @@
+# Ignore build output
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider/IDE
+.idea/
+.vscode/
+
+# NuGet
+*.nupkg
+packages/
+.nuget/
+
+# Logs
+*.log
+
+# Node
+node_modules/
+
+# Test results
+TestResults/
+*.trx
+
+# Publish output
+publish/
+
+# Local app secrets and settings
+secrets.json
+appsettings.*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dockerfile and .dockerignore should be included in images; do not ignore them
+# End of file

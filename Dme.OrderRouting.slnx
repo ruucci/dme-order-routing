@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".coverlet.runsettings" />
+    <File Path=".dockerignore" />
+    <File Path=".gitignore" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="Dme.OrderRouting.Api/Dme.OrderRouting.Api.csproj" />
+  <Project Path="Dme.OrderRouting.Tests/Dme.OrderRouting.Tests.csproj" />
+</Solution>
